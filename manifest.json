@@ -12,10 +12,10 @@
   "host_permissions": ["https://www.youtube.com/*"],
   "action": {
     "default_icon": {
-      "16": "/images/Unactive/16x16.png",
-      "32": "/images/Unactive/32x32.png",
-      "48": "/images/Unactive/48x48.png",
-      "128": "/images/Unactive/128x128.png"
+      "16": "/images/Inactive/16x16.png",
+      "32": "/images/Inactive/32x32.png",
+      "48": "/images/Inactive/48x48.png",
+      "128": "/images/Inactive/128x128.png"
     }
   },
   "icons": {

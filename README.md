@@ -22,7 +22,7 @@ If you're watching a short video and the indicator changes to brown, you can con
 
 ## Deployment
 
-You can download this extension from the chrome extension store [Watchs]()
+You can download this extension from the chrome extension store [Watchs](https://chrome.google.com/webstore/detail/watchs/gfhdlnjjjjncomlnkbfhibfblejijnho?hl=en-GB&authuser=0)
 
 > We are requesting access to your site's permission for the YouTube page so that we can convert the shorts to full video.
 
